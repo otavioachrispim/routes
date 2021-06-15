@@ -1,0 +1,17 @@
+.container{
+  width: 1024px;
+}
+
+p{
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 40px;
+}
+
+.link-navitrine{
+  text-decoration: none;
+  color: #f9653f;
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: 80px;
+}

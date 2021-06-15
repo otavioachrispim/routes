@@ -1,0 +1,28 @@
+h1{
+  font-size: 60px;
+  color: #fff;
+}
+
+.conteudo-opcoes{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 36px;
+  width: 100%;
+}
+
+.conteudo-opcoes a {
+  padding: 20px;
+  text-decoration: none;
+  font-weight: 500;
+  width: 40%;
+}
+
+.navitrine{
+  background-color: #f9653f;
+  color: #fff;
+}
+
+.pally{
+  background-color: #6931f4;
+  color: #fff
+}
